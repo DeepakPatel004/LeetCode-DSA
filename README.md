@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/DeepakPatel004/LeetCode-DSA/tree/master/0073-set-matrix-zeroes) |
+| [0118-pascals-triangle](https://github.com/DeepakPatel004/LeetCode-DSA/tree/master/0118-pascals-triangle) |
 | [1004-max-consecutive-ones-iii](https://github.com/DeepakPatel004/LeetCode-DSA/tree/master/1004-max-consecutive-ones-iii) |
 ## Binary Search
 |  |
@@ -32,4 +33,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/DeepakPatel004/LeetCode-DSA/tree/master/0073-set-matrix-zeroes) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/DeepakPatel004/LeetCode-DSA/tree/master/0118-pascals-triangle) |
 <!---LeetCode Topics End-->
