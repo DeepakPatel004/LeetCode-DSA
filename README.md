@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/DeepakPatel004/LeetCode-DSA/tree/master/0073-set-matrix-zeroes) |
 | [1004-max-consecutive-ones-iii](https://github.com/DeepakPatel004/LeetCode-DSA/tree/master/1004-max-consecutive-ones-iii) |
 ## Binary Search
 |  |
@@ -22,8 +23,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/DeepakPatel004/LeetCode-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0073-set-matrix-zeroes](https://github.com/DeepakPatel004/LeetCode-DSA/tree/master/0073-set-matrix-zeroes) |
 ## String
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/DeepakPatel004/LeetCode-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/DeepakPatel004/LeetCode-DSA/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
