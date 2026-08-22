@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/DeepakPatel004/LeetCode-DSA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DeepakPatel004/LeetCode-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1004-max-consecutive-ones-iii](https://github.com/DeepakPatel004/LeetCode-DSA/tree/master/1004-max-consecutive-ones-iii) |
+| [1345-jump-game-iv](https://github.com/DeepakPatel004/LeetCode-DSA/tree/master/1345-jump-game-iv) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/DeepakPatel004/LeetCode-DSA/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 ## Binary Search
 |  |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/DeepakPatel004/LeetCode-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/DeepakPatel004/LeetCode-DSA/tree/master/0073-set-matrix-zeroes) |
+| [1345-jump-game-iv](https://github.com/DeepakPatel004/LeetCode-DSA/tree/master/1345-jump-game-iv) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/DeepakPatel004/LeetCode-DSA/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 ## String
 |  |
@@ -83,4 +85,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/DeepakPatel004/LeetCode-DSA/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1345-jump-game-iv](https://github.com/DeepakPatel004/LeetCode-DSA/tree/master/1345-jump-game-iv) |
 <!---LeetCode Topics End-->
