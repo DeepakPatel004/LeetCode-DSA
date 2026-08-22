@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/DeepakPatel004/LeetCode-DSA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DeepakPatel004/LeetCode-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1004-max-consecutive-ones-iii](https://github.com/DeepakPatel004/LeetCode-DSA/tree/master/1004-max-consecutive-ones-iii) |
+| [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/DeepakPatel004/LeetCode-DSA/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 ## Binary Search
 |  |
 | ------- |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/DeepakPatel004/LeetCode-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/DeepakPatel004/LeetCode-DSA/tree/master/0073-set-matrix-zeroes) |
+| [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/DeepakPatel004/LeetCode-DSA/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 ## String
 |  |
 | ------- |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/DeepakPatel004/LeetCode-DSA/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/DeepakPatel004/LeetCode-DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/DeepakPatel004/LeetCode-DSA/tree/master/0088-merge-sorted-array) |
+| [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/DeepakPatel004/LeetCode-DSA/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 ## Quicksort
 |  |
 | ------- |
@@ -76,4 +79,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/DeepakPatel004/LeetCode-DSA/tree/master/0048-rotate-image) |
+## Greedy
+|  |
+| ------- |
+| [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/DeepakPatel004/LeetCode-DSA/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 <!---LeetCode Topics End-->
